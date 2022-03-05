@@ -1,6 +1,7 @@
 --- 
 title: "Texting with Kyiv"
 site: bookdown::bookdown_site
+favicon: "favicon.png"
 ---
 
 # Chronological Order {-}
