@@ -3,6 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">SHORT TITLE HERE</a></li>
+        <li><a href="./">TEXTING WITH KYIV</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="./" target="blank">"Do you hear that too?"</a></li>
+        <li><a href="./" target="blank"><em> - 4:30am, 24/2/2022 </em></a></li>
