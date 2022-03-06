@@ -6,73 +6,8 @@ favicon: "favicon.png"
 ---
 
 
-# Date {-}
+# Date {.unnumbered #date}
 
-
-## 16/2 {-}
-
-[11:07] Kyiv: what have u been doin\  
-
-[11:07] Me: getting rejected for jobs\
-
-[11:07] Kyiv: man
-
-[11:10] Me: what am i do bruh
-
-[11:10] Me: no jobs no monies
-
-[11:10] Kyiv: idk bro
-
-[11:10] Kyiv: i dont have no monies either
-
-[11:10] Kyiv: i do things but i've never gotten paid
-
-[11:11] Kyiv: what kind of jobs r u applying for anyways
-
-[11:11] Kyiv: writing?
-
-[11:12] Me: writing
-
-[11:12] Me: teaching
-
-[11:12] Me: whatever there is bro
-
-[11:12] Me: anything related to english
-
-[11:13] Kyiv: man
-
-[11:14] Kyiv: i guess getting a job with an english degree is easier in places where people don't even 
-know what english is
-
-[11:16] Kyiv: just come here and get shot by ruskies
-
-[11:17] Me: shit
-
-[11:17] Me: that dont sound like a good career move
-
-[11:19] Kyiv: a pro gamer move
-
-[11:19] Kyiv: deny employers the pleasure of rejecting you by dying in a crossfire
-
-[11:20] Kyiv: speaking of dying
-
-[11:20] Kyiv: do you want to play fortnite
-
-[11:34] Me: not really
-
-[11:34] Me: about to go work out
-
-[11:36] Kyiv: shiet
-
-[11:55] Kyiv: have u tried watching the office
-
-[11:55] Kyiv: i haven't watched it myself but i've heard a lot of people praising it
-
-[11:58] Me: Ye
-
-[11:58] Me: Didn't get it personally
-
-[14:33] Me: Exercising is hard
 
 
 
