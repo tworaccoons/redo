@@ -28,4 +28,8 @@ section-12
 id16.2
 date
 subtitle-here
+<<<<<<< HEAD
 unnumbered-162
+=======
+>>>>>>> 34d0ea3ef77db2ded91c71dadaa48bdb9bb600df
+head
