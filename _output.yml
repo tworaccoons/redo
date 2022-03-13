@@ -5,5 +5,5 @@ bookdown::gitbook:
       before: |
         <li><a href="./">TEXTING WITH KYIV</a></li>
       after: |
-        <li><a href="/#section-6">[13:16] artillery strike in 10min</a></li>
-        <li><a href="/#section-6">[13:16] ttyl</a></li>
+        <li><a href="textingwithkyiv//#section-6">[13:16] artillery strike in 10min</a></li>
+        <li><a href="textingwithkyiv//#section-6">[13:16] ttyl</a></li>
