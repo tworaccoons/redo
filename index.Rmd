@@ -437,14 +437,11 @@ now
 
 [01:12] Kyiv:
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtube.com/shorts/_Adk4cv1CnI"
-    frameborder="0"
-    allowfullscreen
->
-</iframe>
+<iframe width="560" height="315"
+src="https://youtube.com/shorts/_Adk4cv1CnI?feature=share" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 [01:12] Me: do you need to register to get weapons
 
@@ -1960,7 +1957,7 @@ Me:  What is going on? Such a good show.
 
 [09:11] Kyiv:
 
-123v1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G2oW7tCclz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [09:11] Me: fucking
 
