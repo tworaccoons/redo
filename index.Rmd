@@ -2012,7 +2012,7 @@ Me:  What is going on? Such a good show.
 
 # Date (Newest First) {.unnumbered #reversi}
 
-See dates in oldest first [here](date.html) 
+See dates in oldest first [here](#date) 
 
 ## 12/3 {-}
 
