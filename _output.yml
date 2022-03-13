@@ -5,5 +5,5 @@ bookdown::gitbook:
       before: |
         <li><a href="./">TEXTING WITH KYIV</a></li>
       after: |
-        <li><a href="./" target="blank">"Do you hear that too?"</a></li>
-        <li><a href="./" target="blank"><em> - 4:30am, 24/2/2022 </em></a></li>
+        <li><a href="./" target="blank">[13:16] artillery strike in 10min</a></li>
+        <li><a href="./" target="blank">[13:16] ttyl</a></li>
