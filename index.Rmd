@@ -437,11 +437,7 @@ now
 
 [01:12] Kyiv:
 
-<iframe width="560" height="315"
-src="https://youtube.com/shorts/_Adk4cv1CnI?feature=share" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNVWOaGS6aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [01:12] Me: do you need to register to get weapons
 
@@ -1004,7 +1000,7 @@ good times
 
 [02:10] Me:
 
-331.jpg
+<img src="03-03/331.jpg" alt="331.jpg" width="300"/>
 
 [08:19] Kyiv: https://youtu.be/82oJt2enz8A
 
@@ -1433,7 +1429,8 @@ Me:  What is going on? Such a good show.
 
 [10:56] Kyiv:
 
-531.jpg
+<img src="03-05/531.gif" alt="531" width="300"/>
+
 [21:59] Me: Thanks
 
 ## 6/3 {-}
@@ -1550,7 +1547,7 @@ Me:  What is going on? Such a good show.
 
 [22:57] Kyiv:
 
-631.jpg
+<img src="03-06/631.jpg" alt="631" width="300"/>
 
 [23:06] Me: fuck
 
@@ -1722,7 +1719,7 @@ Me:  What is going on? Such a good show.
 
 [01:28] Kyiv:
 
-731.jpg
+<img src="03-07/731.png" alt="731" width="300"/>
 
 [01:28] Kyiv: bruh
 
@@ -1789,7 +1786,8 @@ Me:  What is going on? Such a good show.
 [01:45] Me: but one time i missed so bad i never found it again
 
 [01:51] Kyiv:
-732.jpg
+
+<img src="03-07/732.jpg" alt="732" width="300"/>
 
 [01:53] Me: fuck where did you even get that
 
@@ -1928,7 +1926,8 @@ Me:  What is going on? Such a good show.
 [09:02] Me: guess i'll have to write something first
 
 [09:03] Me:
-1231.png
+
+<img src="03-12/1231.png" alt="1231" width="300"/>
 
 [09:04] Me: i've been reading the metro books but youve already read them right
 
@@ -1947,7 +1946,8 @@ Me:  What is going on? Such a good show.
 [09:08] Kyiv: yeah we got lucky and found a pretty good apartment
 
 [09:09] Kyiv:
-1232.jpg
+
+<img src="03-12/1232.jpg" alt="1232" width="300"/>
 
 [09:09] Kyiv: the view is not bad either
 
@@ -1981,7 +1981,7 @@ Me:  What is going on? Such a good show.
 
 [09:26] Kyiv:
 
-1233.jpg
+<img src="03-12/1233.jpg" alt="1233" width="300"/>
 
 [09:26] Kyiv: wolololo
 
@@ -1993,11 +1993,11 @@ Me:  What is going on? Such a good show.
 
 [09:33] Me: z is for zoltan
 
-[09:50] Kyiv: z is for fegit
+[09:50] Kyiv: z is for _______
 
 [09:54] Kyiv:
 
-1234.jpg
+<img src="03-12/1234.jpg" alt="1234" width="300"/>
 
 [10:48] Me: reminds me of
 
@@ -2007,12 +2007,367 @@ Me:  What is going on? Such a good show.
 
 [13:20] Me:
 
-1235.gif
+<img src="03-12/1235.gif" alt="1235" width="300"/>
 
+## 13/3 {-}
+
+[12:51] Kyiv:
+
+<img src="03-13/1331.jpg" alt="1331" width="300"/>
+
+<img src="03-13/1332.jpg" alt="1331" width="300"/>
+
+<img src="03-13/1333.jpg" alt="1331" width="300"/>
+
+[12:51] Kyiv: good times
+
+[13:08] me: Hide and seek champions
+
+[11:55] Kyiv: man
+
+[11:55] Kyiv: really hope china doesn’t start supporting russia
+
+[14:31] me: Feel like its too late to start supporting russia
+
+[15:38] me: i mean we didn't expect russia to take this many losses
+
+[15:38] me: theyre fucking up the war
+
+[15:38] me: doesn't make sense for other people to help them anymore
+
+[00:13] me: i wonder if anyone actually predicted this was how the war was going to war
+
+[00:13] me: every step of this journey is like
+
+[00:14] me: too unrealistic bruh
+
+[00:26] Kyiv: our presidential advisor predicted this war and the way it was going to happen three years ago
+
+[00:26] Kyiv: he also predicted donbas and crimea years before anyone even thought about it
+
+[00:27] Kyiv: there’s also a russian journalist who in 2021 described this war in great detail and got 90% of it right.
+
+[00:28] Kyiv: i guess people who really know what’s going on aren’t really surprised by the way things are today 
+
+[00:29] me: Man
+
+[00:29] me: Guess if you know you know
+
+[00:29] me: If you don't know you're fucked
+
+[00:30] me: Can you link me the journalist
+
+[00:37] Kyiv: https://youtu.be/Ia8RFaeIqEk
+
+[00:38] Kyiv: there are no english subs so i don’t know if it’s useful at all
+
+[00:39] me: it's fine i'm extremely fluent in ukrainian and russian
+
+[00:39] me: i know how to say
+
+[00:39] me: я не маю їжі
+
+[00:39] Kyiv: that’s good
+
+[00:40] Kyiv: u can qualify for a refugee
+
+[00:40] Kyiv: я не маю їжі 
+
+[00:40] Kyiv: я не маю де спати
+
+[00:41] Kyiv: я хочу вбивати росіян
+
+[00:41] Kyiv: three things every ukrainian refugee says
+
+[00:42] me: but what about
+
+[00:43] me: я хочу вбивати себе
+
+[00:44] Kyiv: я хочу завершити своє нікчемне існування
+
+[01:34] Kyiv:
+
+<img src="03-13/1334.jpg" alt="1334" width="300"/>
+
+[01:34] Kyiv: our presidential adviser
+
+[01:35] Kyiv: he has a very calming voice. he talks about russian casualties as if he’s reading a lullaby
+
+[01:36] me: does х and г make the same sound in ukrainian
+
+[01:36] Kyiv: no
+
+[01:36] me: fk
+
+[01:37] Kyiv: х is like h in have and г is like g in game but a bit softer
+
+[01:37] me: but г is dufferent from russian right
+
+[01:37] me: because i'm learning the phonetics and like
+
+[01:37] Kyiv: in ukrainian there is also ґ which is the same as russian г
+
+[01:37] me: г and е sound kinda different
+
+[01:37] me: oh that makes sense
+
+[01:38] me: is it like the
+
+[01:38] me: gh sound from mongolian
+
+[01:38] Kyiv: i dont know
+
+[01:38] Kyiv: maybe
+
+[01:38] me: now that i think about it
+
+[01:38] me: you dont speak mongolian
+
+[01:38] Kyiv: how does г sound like e tho
+
+[01:39] me: now they dont
+
+[01:39] me: it's like
+
+[01:39] me: e in ukrainian sounds different from e in russian
+
+[01:39] me: it's like
+
+[01:39] me: less of the y in ye
+
+[01:39] me: fuck am i saying
+
+[01:40] Kyiv: well
+
+[01:40] Kyiv: in ukrainian there is also є which is russian е
+
+[01:40] Kyiv: and ukrainian е is russian э
+
+[01:40] Kyiv: good luck
+
+[01:41] Kyiv: it’s same
+
+[01:41] Kyiv: but different
+
+[01:41] me: yea i was like
+
+[01:41] me: well i already know some russian this will be ezpz
+
+[01:41] me: but then it was
+
+[01:41] me: harder than just starting from scratch
+
+[01:41] me: because instead of not knowing anything
+
+[01:41] me: you just know everything wrong
+
+[01:42] me: it's like
+
+[01:42] me: imagine going into a fight
+
+[01:43] me: and instead of just not knowing how to fight
+
+[01:43] me: you practiced hitting the other person's fist with your face for like 20 years
+
+[01:43] me: so your muscle memory is just
+
+[01:43] me: fucking sudoku
+
+[01:44] Kyiv: 💪🥲
+
+[06:48] Kyiv: bruh
+
+[06:48] Kyiv: i found a ukrainian ninja
+
+[06:48] Kyiv:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TH7g6BaLFIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[06:49] Kyiv: an elite warrior
+
+[16:50] me: вiн хоче вбивати росіян
 
 # Date (Newest First) {.unnumbered #reversi}
 
 See dates in oldest first [here](#date) 
+
+## 13/3 {-}
+
+[12:51] Kyiv:
+
+<img src="03-13/1331.jpg" alt="1331" width="300"/>
+
+<img src="03-13/1332.jpg" alt="1331" width="300"/>
+
+<img src="03-13/1333.jpg" alt="1331" width="300"/>
+
+[12:51] Kyiv: good times
+
+[13:08] me: Hide and seek champions
+
+[11:55] Kyiv: man
+
+[11:55] Kyiv: really hope china doesn’t start supporting russia
+
+[14:31] me: Feel like its too late to start supporting russia
+
+[15:38] me: i mean we didn't expect russia to take this many losses
+
+[15:38] me: theyre fucking up the war
+
+[15:38] me: doesn't make sense for other people to help them anymore
+
+[00:13] me: i wonder if anyone actually predicted this was how the war was going to war
+
+[00:13] me: every step of this journey is like
+
+[00:14] me: too unrealistic bruh
+
+[00:26] Kyiv: our presidential advisor predicted this war and the way it was going to happen three years ago
+
+[00:26] Kyiv: he also predicted donbas and crimea years before anyone even thought about it
+
+[00:27] Kyiv: there’s also a russian journalist who in 2021 described this war in great detail and got 90% of it right.
+
+[00:28] Kyiv: i guess people who really know what’s going on aren’t really surprised by the way things are today 
+
+[00:29] me: Man
+
+[00:29] me: Guess if you know you know
+
+[00:29] me: If you don't know you're fucked
+
+[00:30] me: Can you link me the journalist
+
+[00:37] Kyiv: https://youtu.be/Ia8RFaeIqEk
+
+[00:38] Kyiv: there are no english subs so i don’t know if it’s useful at all
+
+[00:39] me: it's fine i'm extremely fluent in ukrainian and russian
+
+[00:39] me: i know how to say
+
+[00:39] me: я не маю їжі
+
+[00:39] Kyiv: that’s good
+
+[00:40] Kyiv: u can qualify for a refugee
+
+[00:40] Kyiv: я не маю їжі 
+
+[00:40] Kyiv: я не маю де спати
+
+[00:41] Kyiv: я хочу вбивати росіян
+
+[00:41] Kyiv: three things every ukrainian refugee says
+
+[00:42] me: but what about
+
+[00:43] me: я хочу вбивати себе
+
+[00:44] Kyiv: я хочу завершити своє нікчемне існування
+
+[01:34] Kyiv:
+
+<img src="03-13/1334.jpg" alt="1334" width="300"/>
+
+[01:34] Kyiv: our presidential adviser
+
+[01:35] Kyiv: he has a very calming voice. he talks about russian casualties as if he’s reading a lullaby
+
+[01:36] me: does х and г make the same sound in ukrainian
+
+[01:36] Kyiv: no
+
+[01:36] me: fk
+
+[01:37] Kyiv: х is like h in have and г is like g in game but a bit softer
+
+[01:37] me: but г is dufferent from russian right
+
+[01:37] me: because i'm learning the phonetics and like
+
+[01:37] Kyiv: in ukrainian there is also ґ which is the same as russian г
+
+[01:37] me: г and е sound kinda different
+
+[01:37] me: oh that makes sense
+
+[01:38] me: is it like the
+
+[01:38] me: gh sound from mongolian
+
+[01:38] Kyiv: i dont know
+
+[01:38] Kyiv: maybe
+
+[01:38] me: now that i think about it
+
+[01:38] me: you dont speak mongolian
+
+[01:38] Kyiv: how does г sound like e tho
+
+[01:39] me: now they dont
+
+[01:39] me: it's like
+
+[01:39] me: e in ukrainian sounds different from e in russian
+
+[01:39] me: it's like
+
+[01:39] me: less of the y in ye
+
+[01:39] me: fuck am i saying
+
+[01:40] Kyiv: well
+
+[01:40] Kyiv: in ukrainian there is also є which is russian е
+
+[01:40] Kyiv: and ukrainian е is russian э
+
+[01:40] Kyiv: good luck
+
+[01:41] Kyiv: it’s same
+
+[01:41] Kyiv: but different
+
+[01:41] me: yea i was like
+
+[01:41] me: well i already know some russian this will be ezpz
+
+[01:41] me: but then it was
+
+[01:41] me: harder than just starting from scratch
+
+[01:41] me: because instead of not knowing anything
+
+[01:41] me: you just know everything wrong
+
+[01:42] me: it's like
+
+[01:42] me: imagine going into a fight
+
+[01:43] me: and instead of just not knowing how to fight
+
+[01:43] me: you practiced hitting the other person's fist with your face for like 20 years
+
+[01:43] me: so your muscle memory is just
+
+[01:43] me: fucking sudoku
+
+[01:44] Kyiv: 💪🥲
+
+[06:48] Kyiv: bruh
+
+[06:48] Kyiv: i found a ukrainian ninja
+
+[06:48] Kyiv:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TH7g6BaLFIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[06:49] Kyiv: an elite warrior
+
+[16:50] me: вiн хоче вбивати росіян
 
 ## 12/3 {-}
 
@@ -2063,7 +2418,8 @@ See dates in oldest first [here](#date)
 [09:02] Me: guess i'll have to write something first
 
 [09:03] Me:
-1231.png
+
+<img src="03-12/1231.png" alt="1231" width="300"/>
 
 [09:04] Me: i've been reading the metro books but youve already read them right
 
@@ -2082,7 +2438,8 @@ See dates in oldest first [here](#date)
 [09:08] Kyiv: yeah we got lucky and found a pretty good apartment
 
 [09:09] Kyiv:
-1232.jpg
+
+<img src="03-12/1232.jpg" alt="1232" width="300"/>
 
 [09:09] Kyiv: the view is not bad either
 
@@ -2116,7 +2473,7 @@ See dates in oldest first [here](#date)
 
 [09:26] Kyiv:
 
-1233.jpg
+<img src="03-12/1233.jpg" alt="1233" width="300"/>
 
 [09:26] Kyiv: wolololo
 
@@ -2128,11 +2485,11 @@ See dates in oldest first [here](#date)
 
 [09:33] Me: z is for zoltan
 
-[09:50] Kyiv: z is for fegit
+[09:50] Kyiv: z is for _______
 
 [09:54] Kyiv:
 
-1234.jpg
+<img src="03-12/1234.jpg" alt="1234" width="300"/>
 
 [10:48] Me: reminds me of
 
@@ -2142,8 +2499,7 @@ See dates in oldest first [here](#date)
 
 [13:20] Me:
 
-1235.gif
-
+<img src="03-12/1235.gif" alt="1235" width="300"/>
 
 ## 11/3 {-}
 
@@ -2644,11 +3000,7 @@ now
 
 [01:12] Kyiv:
 
-<iframe width="560" height="315"
-src="https://youtube.com/shorts/_Adk4cv1CnI?feature=share" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNVWOaGS6aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [01:12] Me: do you need to register to get weapons
 

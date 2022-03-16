@@ -13,3 +13,14 @@ pre {
 pre code {
   white-space: inherit;
 }
+#hero1{
+ background:url(background.png);
+  background-size:cover;
+  background-position:center center;
+  background-attachment:fixed;
+}
+.hero, .content{
+  text-align:center; 
+  position:relative;
+  width: 100%;
+}
